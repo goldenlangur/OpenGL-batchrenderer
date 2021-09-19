@@ -1,0 +1,4 @@
+/Users/liamcreed/Documents/dev/c/build/CMakeFiles/rebuild_cache.dir
+/Users/liamcreed/Documents/dev/c/build/CMakeFiles/edit_cache.dir
+/Users/liamcreed/Documents/dev/c/build/CMakeFiles/game.dir
+/Users/liamcreed/Documents/dev/c/build/CMakeFiles/glad.dir
